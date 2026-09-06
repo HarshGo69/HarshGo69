@@ -17,6 +17,7 @@ I know it's been complicated up there but here what I am in short
 • In free time does OSINTS 
 
 • Open to learn everything thing even if it's not related to the field 
+
  To contact me you can simply connect on LinkedIn or E-mail me.
 
  
