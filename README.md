@@ -1,16 +1,18 @@
-## Hi there 👋
+@HarshGo69
+#Hi there 👋
+I am Harsh Gosai, Data Analyst moving towards Data Science residing in India
 
-<!--
-**HarshGo69/HarshGo69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly work on Data as I love to find insights and visualize them along with solving a business problem.
 
-Here are some ideas to get you started:
+The tech stack I majorly work with are Excel(advanced), SQL, PostgreSQL, React, Python, C++, Power Bi, Azure Cloud, Pipelines and similar tech for analysis and visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love to tell stories that came from insights and my Core Competencies are Data Cleaning & Transformation, ETL, Statistical Analysis, KPI Reporting & Business Storytelling, Risk Analysis, Stakeholder Communication, Business Judgment & Hypothesis-Driven Analysis
+
+I know it's been complicated up there but here what I am in short
+• Analyst who takes fun in his work
+• Works with AI tools to streamline the flow of work and love to experiment with them 
+• In free time does OSINTS 
+• Open to learn everything thing even if it's not related to the field 
+ To contact me you can simply connect on LinkedIn or E-mail me.
+
+ 
